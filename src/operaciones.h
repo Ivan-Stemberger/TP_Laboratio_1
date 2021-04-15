@@ -1,10 +1,3 @@
-/*
- * operaciones.h
- *
- *  Created on: 15 abr. 2021
- *      Author: Usuario
- */
-
 #ifndef OPERACIONES_H_
 #define OPERACIONES_H_
 
@@ -15,6 +8,5 @@ float division(float a, float b);
 int factorial(float a);
 float setOperando();
 int isZero(float operando);
-
 
 #endif /* OPERACIONES_H_ */

@@ -1,10 +1,3 @@
-/*
- * mostrar.h
- *
- *  Created on: 15 abr. 2021
- *      Author: Usuario
- */
-
 #ifndef MOSTRAR_H_
 #define MOSTRAR_H_
 
